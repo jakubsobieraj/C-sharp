@@ -1,0 +1,7 @@
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\HelloWorld\bin\Debug\HelloWorld.exe
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\HelloWorld\obj\Debug\HelloWorld.exe
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\HelloWorld\obj\Debug\HelloWorld.pdb

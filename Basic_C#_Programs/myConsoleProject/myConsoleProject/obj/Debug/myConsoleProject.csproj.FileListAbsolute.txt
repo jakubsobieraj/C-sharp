@@ -1,0 +1,7 @@
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.exe.config
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.exe
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.pdb
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csproj.AssemblyReference.cache
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csproj.CoreCompileInputs.cache
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.exe
+F:\OneDrive - Fife College\C#\C-sharp\Basic_C#_Programs\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.pdb
