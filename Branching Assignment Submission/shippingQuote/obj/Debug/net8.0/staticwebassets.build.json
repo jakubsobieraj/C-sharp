@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "C46Fv93zykCY3NfrMLCYm2O4J0MZu/X34smp2sWzOOY=",
+  "Source": "shippingQuote",
+  "BasePath": "_content/shippingQuote",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
