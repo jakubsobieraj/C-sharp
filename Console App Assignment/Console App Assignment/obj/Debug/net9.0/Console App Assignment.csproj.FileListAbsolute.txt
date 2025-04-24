@@ -1,0 +1,15 @@
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\bin\Debug\net9.0\Console App Assignment.exe
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\bin\Debug\net9.0\Console App Assignment.deps.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\bin\Debug\net9.0\Console App Assignment.runtimeconfig.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\bin\Debug\net9.0\Console App Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\bin\Debug\net9.0\Console App Assignment.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\obj\Debug\net9.0\Console App Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\obj\Debug\net9.0\Console App Assignment.AssemblyInfoInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\obj\Debug\net9.0\Console App Assignment.AssemblyInfo.cs
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\obj\Debug\net9.0\Console App Assignment.csproj.CoreCompileInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\obj\Debug\net9.0\Console App Assignment.sourcelink.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\obj\Debug\net9.0\Console App Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\obj\Debug\net9.0\refint\Console App Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\obj\Debug\net9.0\Console App Assignment.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\obj\Debug\net9.0\Console App Assignment.genruntimeconfig.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Assignment\Console App Assignment\obj\Debug\net9.0\ref\Console App Assignment.dll
