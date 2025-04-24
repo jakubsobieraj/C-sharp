@@ -1,0 +1,15 @@
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\bin\Debug\net9.0\Console App Array.exe
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\bin\Debug\net9.0\Console App Array.deps.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\bin\Debug\net9.0\Console App Array.runtimeconfig.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\bin\Debug\net9.0\Console App Array.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\bin\Debug\net9.0\Console App Array.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\obj\Debug\net9.0\Console App Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\obj\Debug\net9.0\Console App Array.AssemblyInfoInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\obj\Debug\net9.0\Console App Array.AssemblyInfo.cs
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\obj\Debug\net9.0\Console App Array.csproj.CoreCompileInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\obj\Debug\net9.0\Console App Array.sourcelink.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\obj\Debug\net9.0\Console App Array.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\obj\Debug\net9.0\refint\Console App Array.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\obj\Debug\net9.0\Console App Array.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\obj\Debug\net9.0\Console App Array.genruntimeconfig.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Array\Console App Array\obj\Debug\net9.0\ref\Console App Array.dll
