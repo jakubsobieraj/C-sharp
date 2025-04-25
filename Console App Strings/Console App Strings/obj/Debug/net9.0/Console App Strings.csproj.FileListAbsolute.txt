@@ -1,0 +1,15 @@
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\bin\Debug\net9.0\Console App Strings.exe
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\bin\Debug\net9.0\Console App Strings.deps.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\bin\Debug\net9.0\Console App Strings.runtimeconfig.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\bin\Debug\net9.0\Console App Strings.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\bin\Debug\net9.0\Console App Strings.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\obj\Debug\net9.0\Console App Strings.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\obj\Debug\net9.0\Console App Strings.AssemblyInfoInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\obj\Debug\net9.0\Console App Strings.AssemblyInfo.cs
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\obj\Debug\net9.0\Console App Strings.csproj.CoreCompileInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\obj\Debug\net9.0\Console App Strings.sourcelink.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\obj\Debug\net9.0\Console App Strings.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\obj\Debug\net9.0\refint\Console App Strings.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\obj\Debug\net9.0\Console App Strings.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\obj\Debug\net9.0\Console App Strings.genruntimeconfig.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Console App Strings\Console App Strings\obj\Debug\net9.0\ref\Console App Strings.dll
