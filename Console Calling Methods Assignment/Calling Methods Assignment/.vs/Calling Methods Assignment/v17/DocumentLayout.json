@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Console Calling Methods Assignment\\Calling Methods Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01812AF6-380B-4262-AF32-D5A710D79EFC}|Calling Methods Assignment.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\console calling methods assignment\\calling methods assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01812AF6-380B-4262-AF32-D5A710D79EFC}|Calling Methods Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01812AF6-380B-4262-AF32-D5A710D79EFC}|Calling Methods Assignment.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\console calling methods assignment\\calling methods assignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01812AF6-380B-4262-AF32-D5A710D79EFC}|Calling Methods Assignment.csproj|solutionrelative:mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Console Calling Methods Assignment\\Calling Methods Assignment\\MathOperations.cs",
+              "RelativeDocumentMoniker": "MathOperations.cs",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Console Calling Methods Assignment\\Calling Methods Assignment\\MathOperations.cs",
+              "RelativeToolTip": "MathOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:21:56.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Console Calling Methods Assignment\\Calling Methods Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Console Calling Methods Assignment\\Calling Methods Assignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:20:34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
