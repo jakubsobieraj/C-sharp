@@ -1,0 +1,15 @@
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\bin\Debug\net9.0\Class Method Assignment.exe
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\bin\Debug\net9.0\Class Method Assignment.deps.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\bin\Debug\net9.0\Class Method Assignment.runtimeconfig.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\bin\Debug\net9.0\Class Method Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\bin\Debug\net9.0\Class Method Assignment.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\obj\Debug\net9.0\Class Method Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\obj\Debug\net9.0\Class Method Assignment.AssemblyInfoInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\obj\Debug\net9.0\Class Method Assignment.AssemblyInfo.cs
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\obj\Debug\net9.0\Class Method Assignment.csproj.CoreCompileInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\obj\Debug\net9.0\Class Method Assignment.sourcelink.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\obj\Debug\net9.0\Class Method Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\obj\Debug\net9.0\refint\Class Method Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\obj\Debug\net9.0\Class Method Assignment.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\obj\Debug\net9.0\Class Method Assignment.genruntimeconfig.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Class Method Assignment\Class Method Assignment\obj\Debug\net9.0\ref\Class Method Assignment.dll
