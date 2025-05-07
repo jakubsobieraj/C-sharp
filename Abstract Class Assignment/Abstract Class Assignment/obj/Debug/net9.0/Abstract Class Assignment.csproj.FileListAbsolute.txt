@@ -1,0 +1,15 @@
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\net9.0\Abstract Class Assignment.exe
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\net9.0\Abstract Class Assignment.deps.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\net9.0\Abstract Class Assignment.runtimeconfig.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\net9.0\Abstract Class Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\net9.0\Abstract Class Assignment.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net9.0\Abstract Class Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net9.0\Abstract Class Assignment.AssemblyInfoInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net9.0\Abstract Class Assignment.AssemblyInfo.cs
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net9.0\Abstract Class Assignment.csproj.CoreCompileInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net9.0\Abstract Class Assignment.sourcelink.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net9.0\Abstract Class Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net9.0\refint\Abstract Class Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net9.0\Abstract Class Assignment.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net9.0\Abstract Class Assignment.genruntimeconfig.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\net9.0\ref\Abstract Class Assignment.dll
