@@ -1,0 +1,15 @@
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\bin\Debug\net9.0\Operators Assignment.exe
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\bin\Debug\net9.0\Operators Assignment.deps.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\bin\Debug\net9.0\Operators Assignment.runtimeconfig.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\bin\Debug\net9.0\Operators Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\bin\Debug\net9.0\Operators Assignment.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\obj\Debug\net9.0\Operators Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\obj\Debug\net9.0\Operators Assignment.AssemblyInfoInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\obj\Debug\net9.0\Operators Assignment.AssemblyInfo.cs
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\obj\Debug\net9.0\Operators Assignment.csproj.CoreCompileInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\obj\Debug\net9.0\Operators Assignment.sourcelink.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\obj\Debug\net9.0\Operators Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\obj\Debug\net9.0\refint\Operators Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\obj\Debug\net9.0\Operators Assignment.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\obj\Debug\net9.0\Operators Assignment.genruntimeconfig.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Operators Assignment\Operators Assignment\obj\Debug\net9.0\ref\Operators Assignment.dll
