@@ -5,8 +5,11 @@ using System.Numerics;
 namespace Blackjack
 {
 	public class BlackjackGame : Game, IWalkAway
+
+
 	{
 		public BlackjackDealer Dealer { get; set; }
+		
 		public override void Play()
 		{
 			Dealer = new BlackjackDealer();
@@ -63,8 +66,8 @@ namespace Blackjack
 					}
 				}
 			}
-
-			foreach (Player player in Players)
+           
+            foreach (Player player in Players)
 			{
 				while (!player.Stay)
 				{
@@ -166,6 +169,7 @@ namespace Blackjack
 				return;
             }
         }
+		
         public override void ListPlayers()
 		{
 			Console.WriteLine("Blackjack players:");

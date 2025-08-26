@@ -36,7 +36,7 @@ namespace Blackjack
                 game -= player;
                 Console.WriteLine("Thanks for the game.");
             }
-            Console.WriteLine("Feel free to look around the casing.");
+            Console.WriteLine("Feel free to look around the casino.");
             Console.Read();
         }
     }
