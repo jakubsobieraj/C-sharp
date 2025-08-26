@@ -1,0 +1,7 @@
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.Properties.Resources.resources
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.csproj.GenerateResource.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.AssemblyInfoInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.AssemblyInfo.cs
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.csproj.CoreCompileInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.sourcelink.json
