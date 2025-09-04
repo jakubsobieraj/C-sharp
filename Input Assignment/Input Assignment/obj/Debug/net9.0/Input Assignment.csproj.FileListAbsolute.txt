@@ -1,0 +1,15 @@
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\bin\Debug\net9.0\Input Assignment.exe
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\bin\Debug\net9.0\Input Assignment.deps.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\bin\Debug\net9.0\Input Assignment.runtimeconfig.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\bin\Debug\net9.0\Input Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\bin\Debug\net9.0\Input Assignment.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\obj\Debug\net9.0\Input Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\obj\Debug\net9.0\Input Assignment.AssemblyInfoInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\obj\Debug\net9.0\Input Assignment.AssemblyInfo.cs
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\obj\Debug\net9.0\Input Assignment.csproj.CoreCompileInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\obj\Debug\net9.0\Input Assignment.sourcelink.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\obj\Debug\net9.0\Input Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\obj\Debug\net9.0\refint\Input Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\obj\Debug\net9.0\Input Assignment.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\obj\Debug\net9.0\Input Assignment.genruntimeconfig.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Input Assignment\Input Assignment\obj\Debug\net9.0\ref\Input Assignment.dll

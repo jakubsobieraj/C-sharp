@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Console App Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf6b22ee0ac36452a0cf2c0db45b23de3fa4f62b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3736e32ec27ca71acb92275e55b2efdd26828d5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Console App Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Console App Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

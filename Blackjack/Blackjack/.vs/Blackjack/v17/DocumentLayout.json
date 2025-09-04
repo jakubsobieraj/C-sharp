@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|solutionrelative:blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|solutionrelative:dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\blackjackrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|solutionrelative:blackjackrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|solutionrelative:blackjackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|solutionrelative:iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|solutionrelative:deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\blackjackdealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|solutionrelative:blackjackdealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\blackjackrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|solutionrelative:blackjackrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43B1D73F-556F-4F7C-BBA4-096939503E75}|Blackjack.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\blackjack\\blackjack\\blackjack.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -30,24 +54,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:16:21.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWalkAway.cs",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\IWalkAway.cs",
+              "RelativeDocumentMoniker": "IWalkAway.cs",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\IWalkAway.cs",
+              "RelativeToolTip": "IWalkAway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:16:20.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\Deck.cs",
+              "RelativeDocumentMoniker": "Deck.cs",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\Deck.cs",
+              "RelativeToolTip": "Deck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:16:19.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlackjackDealer.cs",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\BlackjackDealer.cs",
+              "RelativeDocumentMoniker": "BlackjackDealer.cs",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\BlackjackDealer.cs",
+              "RelativeToolTip": "BlackjackDealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:16:18.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Card.cs",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\Card.cs",
+              "RelativeDocumentMoniker": "Card.cs",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\Card.cs",
+              "RelativeToolTip": "Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:16:16.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dealer.cs",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\Dealer.cs",
+              "RelativeDocumentMoniker": "Dealer.cs",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\Dealer.cs",
+              "RelativeToolTip": "Dealer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:16:13.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BlackjackGame.cs",
               "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\BlackjackGame.cs",
               "RelativeDocumentMoniker": "BlackjackGame.cs",
               "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\BlackjackGame.cs",
               "RelativeToolTip": "BlackjackGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAMwKIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T21:51:21.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Game.cs",
               "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
@@ -60,28 +162,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "BlackjackRules.cs",
               "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\BlackjackRules.cs",
               "RelativeDocumentMoniker": "BlackjackRules.cs",
               "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\BlackjackRules.cs",
               "RelativeToolTip": "BlackjackRules.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwEoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwEoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T21:51:12.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Blackjack",
               "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\Blackjack.csproj",
               "RelativeDocumentMoniker": "Blackjack.csproj",
               "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\Blackjack.csproj",
               "RelativeToolTip": "Blackjack.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-26T21:36:20.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T21:36:20.592Z"
             },
             {
               "$type": "Document",
@@ -91,7 +192,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T19:15:08.093Z",
               "EditorCaption": ""

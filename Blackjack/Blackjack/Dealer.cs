@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Blackjack
 {
@@ -11,7 +12,12 @@ namespace Blackjack
 		public void Deal(List<Card> Hand)
 		{
 			Hand.Add(Deck.Cards.First());
-			Console.WriteLine(Deck.Cards.First().ToString() + "\n");
+			string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            Console.WriteLine(card);
+			using (StreamWriter file = new StreamWriter(@"F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Blackjack\\Blackjack\\LOGS", true))
+			{
+				file.WriteLine(card);
+			}
 			Deck.Cards.RemoveAt(0);
 		}
 	}
