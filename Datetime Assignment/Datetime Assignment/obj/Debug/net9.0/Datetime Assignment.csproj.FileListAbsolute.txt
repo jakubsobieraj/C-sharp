@@ -1,0 +1,15 @@
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\bin\Debug\net9.0\Datetime Assignment.exe
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\bin\Debug\net9.0\Datetime Assignment.deps.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\bin\Debug\net9.0\Datetime Assignment.runtimeconfig.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\bin\Debug\net9.0\Datetime Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\bin\Debug\net9.0\Datetime Assignment.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\obj\Debug\net9.0\Datetime Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\obj\Debug\net9.0\Datetime Assignment.AssemblyInfoInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\obj\Debug\net9.0\Datetime Assignment.AssemblyInfo.cs
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\obj\Debug\net9.0\Datetime Assignment.csproj.CoreCompileInputs.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\obj\Debug\net9.0\Datetime Assignment.sourcelink.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\obj\Debug\net9.0\Datetime Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\obj\Debug\net9.0\refint\Datetime Assignment.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\obj\Debug\net9.0\Datetime Assignment.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\obj\Debug\net9.0\Datetime Assignment.genruntimeconfig.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Datetime Assignment\Datetime Assignment\obj\Debug\net9.0\ref\Datetime Assignment.dll
