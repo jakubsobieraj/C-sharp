@@ -21,23 +21,6 @@ namespace Blackjack
             [Face.King] = 10,
             [Face.Ace] = 1,
         };
-        public static int[] GetAllPossibleHandValues(List<Card> Hand)
-        {
-            int aceCount = Hand.Count(x => x.Face == Face.Ace);
-            int[] result = new int[aceCount + 1];
-            int value = Hand.Sum(x => _cardValues[x.Face]);
-            result[0] = value;
-            if (result.Length == 1)
-            {
-                return result;
-            }
-            for (int i = 1; i < result.Length; i++)
-            {
-                value = value + (i * 10);
-                result[i] = value;
-            }
-            return result;
-        }
 
         public static bool CheckForBlackjack(List<Card> Hand)
         {
@@ -79,6 +62,24 @@ namespace Blackjack
             else if (playerScore < dealerScore) return false;
 
             else return null;
+        }
+
+        public static int[] GetAllPossibleHandValues(List<Card> Hand)
+        {
+            int aceCount = Hand.Count(x => x.Face == Face.Ace);
+            int[] result = new int[aceCount + 1];
+            int value = Hand.Sum(x => _cardValues[x.Face]);
+            result[0] = value;
+            if (result.Length == 1)
+            {
+                return result;
+            }
+            for (int i = 1; i < result.Length; i++)
+            {
+                value = value + (i * 10);
+                result[i] = value;
+            }
+            return result;
         }
     }
 }

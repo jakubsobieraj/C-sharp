@@ -12,8 +12,8 @@ namespace Blackjack
 		public void Deal(List<Card> Hand)
 		{
 			Hand.Add(Deck.Cards.First());
-			string card = string.Format(Deck.Cards.First().ToString() + "\n");
-			Deck.Cards.RemoveAt(0);
+            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
+            Deck.Cards.RemoveAt(0);
 		}
 	}
 }

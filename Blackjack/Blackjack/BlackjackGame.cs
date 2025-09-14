@@ -20,8 +20,9 @@ namespace Blackjack
 			}
 			Dealer.Hand = new List<Card>();
 			Dealer.Stay = false;
-			Dealer.Deck = new Deck();
-			Console.WriteLine("Place your bet:");
+            Dealer.Deck = new Deck();
+            Dealer.Deck.Shuffle();
+            Console.WriteLine("Place your bet:");
 
 			foreach (Player player in Players)
 			{
@@ -49,7 +50,7 @@ namespace Blackjack
                         if (blackJack)
                         {
 							Console.WriteLine("Blackjack! {0} wins {1}", player.Name, Bets[player]);
-							player.Balance += Convert.ToInt32((Bets[player] + 1.5) + Bets[player]);
+							player.Balance += Convert.ToInt32((Bets[player] * 1.5) + Bets[player]);
 							return;
                         }
                     }
@@ -148,7 +149,7 @@ namespace Blackjack
                 }
 				else if (playerWon == true)
 				{
-					Console.WriteLine("{0} won {1}.", player.Name, Bets[player]);player.Balance += Bets[player];
+					Console.WriteLine("{0} won {1}.", player.Name, Bets[player]);
                     player.Balance += (Bets[player] * 2);
                     Dealer.Balance -= Bets[player];
                 }

@@ -24,7 +24,7 @@ namespace Blackjack
             Console.WriteLine("Hello, {0}. Do you want to join a 21 game right now? to join, type: y" , playerName);
             string answer = Console.ReadLine().ToLower();
 
-            if (answer == "y") 
+            if (answer == "y" || answer == "yeah" || answer == "yes" || answer == "ya") 
             {
                 Player player = new Player(playerName, bank);
                 Game game = new BlackjackGame();

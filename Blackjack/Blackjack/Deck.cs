@@ -29,13 +29,13 @@ namespace Blackjack
 				List<Card> TempList = new List<Card>();
 				Random random = new Random();
 
-				while (Cards.Count > 0)
+				while (this.Cards.Count > 0)
 				{
-					int RandomIndex = random.Next(0, Cards.Count);
-					TempList.Add(Cards[RandomIndex]);
-					Cards.RemoveAt(RandomIndex);
+					int RandomIndex = random.Next(0, this.Cards.Count);
+					TempList.Add(this.Cards[RandomIndex]);
+					this.Cards.RemoveAt(RandomIndex);
 				}
-				Cards = TempList;
+				this.Cards = TempList;
 			}	
 		}
 
