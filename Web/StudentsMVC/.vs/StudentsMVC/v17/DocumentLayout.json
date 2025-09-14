@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991E42E4-B3F1-43E1-8B69-B2517B23A4C3}|StudentsMVC.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\web\\studentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991E42E4-B3F1-43E1-8B69-B2517B23A4C3}|StudentsMVC.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991E42E4-B3F1-43E1-8B69-B2517B23A4C3}|StudentsMVC.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\web\\studentsmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991E42E4-B3F1-43E1-8B69-B2517B23A4C3}|StudentsMVC.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991E42E4-B3F1-43E1-8B69-B2517B23A4C3}|StudentsMVC.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\web\\studentsmvc\\views\\home\\instructors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991E42E4-B3F1-43E1-8B69-B2517B23A4C3}|StudentsMVC.csproj|solutionrelative:views\\home\\instructors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991E42E4-B3F1-43E1-8B69-B2517B23A4C3}|StudentsMVC.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\web\\studentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991E42E4-B3F1-43E1-8B69-B2517B23A4C3}|StudentsMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991E42E4-B3F1-43E1-8B69-B2517B23A4C3}|StudentsMVC.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\web\\studentsmvc\\views\\home\\instructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991E42E4-B3F1-43E1-8B69-B2517B23A4C3}|StudentsMVC.csproj|solutionrelative:views\\home\\instructor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991E42E4-B3F1-43E1-8B69-B2517B23A4C3}|StudentsMVC.csproj|f:\\onedrive - university of dundee\\pitman\\c-sharp\\web\\studentsmvc\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991E42E4-B3F1-43E1-8B69-B2517B23A4C3}|StudentsMVC.csproj|solutionrelative:models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T20:54:11.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T20:52:28.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Models\\Instructor.cs",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\Models\\Instructor.cs",
+              "RelativeToolTip": "Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T20:36:46.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructor.cshtml",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\Views\\Home\\Instructor.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Instructor.cshtml",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\Views\\Home\\Instructor.cshtml",
+              "RelativeToolTip": "Views\\Home\\Instructor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T20:34:48.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Instructors.cshtml",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Instructors.cshtml",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "RelativeToolTip": "Views\\Home\\Instructors.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T20:31:07.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "F:\\OneDrive - University of Dundee\\Pitman\\C-sharp\\Web\\StudentsMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T20:26:22.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

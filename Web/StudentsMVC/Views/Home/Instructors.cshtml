@@ -1,0 +1,15 @@
+﻿@using StudentsMVC.Models
+@model List<Instructor>
+
+@{
+    ViewData["Title"] = "Instructors";
+}
+
+<h1>Instructors</h1>
+
+@{
+    foreach(Instructor instructor in Model)
+    {
+        <h4>@instructor.FirstName</h4>
+    }
+}
