@@ -25,7 +25,7 @@ namespace Blackjack
 
 			foreach (Player player in Players)
 			{
-				int bet = Convert.ToInt32(Console.ReadLine);
+				int bet = Convert.ToInt32(Console.ReadLine());
 				bool successfulBet = player.Bet(bet);
 				if (!successfulBet)
 				{
@@ -33,7 +33,10 @@ namespace Blackjack
 				}
 				Bets[player] = bet;
 			}
-			for (int i = 0; i < 2; i++)
+
+			string answer = string.Empty;
+
+            for (int i = 0; i < 2; i++)
 			{
 				Console.WriteLine("Dealing...");
 				foreach (Player player in Players)
@@ -77,7 +80,7 @@ namespace Blackjack
 						Console.Write("{0} ", card.ToString());
 					}
 					Console.WriteLine("\n\nHit or stay?");
-					string answer = Console.ReadLine().ToLower();
+					answer = Console.ReadLine().ToLower();
 					if (answer == "stay")
 					{
 						player.Stay = true;
@@ -92,7 +95,7 @@ namespace Blackjack
 					if (busted)
 					{
 						Dealer.Balance += Bets[player];
-						Console.WriteLine("{0} Busted! You lose {1}. Balance is now {2}, ", player.Name);
+						Console.WriteLine("{0} Busted! You lose {1}. Balance is now {2}, ", player.Name, Bets[player], player.Balance);
 						Console.WriteLine("Do you want to play again? If yes, type: y");
                         answer = Console.ReadLine().ToLower();
 
@@ -155,18 +158,18 @@ namespace Blackjack
 					Dealer.Balance += Bets[player];
 
 				}
-            }
-			Console.WriteLine("Play again? If yes, type: y");
-            string answer = Console.ReadLine().ToLower();
-            if (answer == "y")
-			{
-                player.IsActivelyPlaying = true;
-				return;
-            }
-			else
-			{
-                player.IsActivelyPlaying = false;
-				return;
+                Console.WriteLine("Play again? If yes, type: y");
+                answer = Console.ReadLine().ToLower();
+                if (answer == "y")
+                {
+                    player.IsActivelyPlaying = true;
+                    return;
+                }
+                else
+                {
+                    player.IsActivelyPlaying = false;
+                    return;
+                }
             }
         }
 		

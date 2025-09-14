@@ -1,3 +1,4 @@
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.csproj.AssemblyReference.cache
 F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.Properties.Resources.resources
 F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.csproj.GenerateResource.cache
 F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
@@ -5,3 +6,20 @@ F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\
 F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.AssemblyInfo.cs
 F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.csproj.CoreCompileInputs.cache
 F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.sourcelink.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\bin\Debug\net9.0\Blackjack.exe
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\bin\Debug\net9.0\Blackjack.dll.config
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\bin\Debug\net9.0\Blackjack.deps.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\bin\Debug\net9.0\Blackjack.runtimeconfig.json
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\bin\Debug\net9.0\Blackjack.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\bin\Debug\net9.0\Blackjack.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.csproj.Up2Date
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\refint\Blackjack.dll
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.pdb
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\Blackjack.genruntimeconfig.cache
+F:\OneDrive - University of Dundee\Pitman\C-sharp\Blackjack\Blackjack\obj\Debug\net9.0\ref\Blackjack.dll
