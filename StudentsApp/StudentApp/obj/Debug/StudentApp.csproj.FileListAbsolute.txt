@@ -1,0 +1,12 @@
+C:\Users\Kamil\Desktop\CSharp-and-.NET\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\Kamil\Desktop\CSharp-and-.NET\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\Kamil\Desktop\CSharp-and-.NET\StudentApp\StudentApp\bin\Debug\EntityFramework.dll
+C:\Users\Kamil\Desktop\CSharp-and-.NET\StudentApp\StudentApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kamil\Desktop\CSharp-and-.NET\StudentApp\StudentApp\bin\Debug\EntityFramework.xml
+C:\Users\Kamil\Desktop\CSharp-and-.NET\StudentApp\StudentApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kamil\Desktop\CSharp-and-.NET\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\CSharp-and-.NET\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CopyComplete
+C:\Users\Kamil\Desktop\CSharp-and-.NET\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\Kamil\Desktop\CSharp-and-.NET\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
