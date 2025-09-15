@@ -1,4 +1,12 @@
-# C-sharp
- Pitman Year 2 
+# C#
 
-This repository will be used to keep all my C# projects.
+This repository holds all my coding in C# as part of the Pitman Training Bootcamp.
+
+## Projects
+
+Car insurance basic app
+Blackjack Console game
+
+## Project implemented with: 
+- C#
+- .NET
